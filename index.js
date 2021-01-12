@@ -1,3 +1,3 @@
 console.error("sup")
 console.warn("hello")
-cosole.log("yup")
+console.log("yup")
